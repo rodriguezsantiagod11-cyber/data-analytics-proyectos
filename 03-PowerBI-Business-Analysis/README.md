@@ -14,6 +14,6 @@ Business dataset used for building a Power BI dashboard to analyze key performan
   
 ## Key Insights
 
-- Key performance indicators help evaluate business performance.
-- Data transformation was performed before visualization.
-- Interactive visuals help identify trends and patterns in the data.
+- The dashboard highlights key performance indicators used to evaluate overall business performance.
+- Data was cleaned and transformed before visualization to ensure accuracy.
+- Interactive visuals allow users to explore trends and patterns across different business metrics.
