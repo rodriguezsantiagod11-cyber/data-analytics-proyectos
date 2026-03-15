@@ -1,3 +1,8 @@
+## Tools Used
+
+- SQL (data cleaning and preparation)
+- Power Query (data transformation)
+- Power BI (dashboard development and visualization)
 ## Goal
 Build a business intelligence dashboard to analyze key performance indicators and support data-driven decision making.
 
