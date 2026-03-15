@@ -1,4 +1,7 @@
 # Data Analytics Portfolio
+# Data Analytics Portfolio
+
+Hi, I'm Santiago Rodriguez, an aspiring Data Analyst.
 
 This repository contains a collection of data analytics projects developed using different tools and technologies such as Excel, Tableau, Power BI, and Python.
 
